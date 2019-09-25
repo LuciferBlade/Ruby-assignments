@@ -1,0 +1,26 @@
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
+Polyline, Polygon, Line, Ellipse, Circle, Rectangle
+Line, Circle, Polyline, Ellipse Polygon, Line, Circle, Line Line, Line, Circle
