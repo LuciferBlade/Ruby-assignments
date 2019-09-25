@@ -1,0 +1,11 @@
+2 užduotis
+
+Nuskaito (.csv) failą ir atpažįsta jame esančius duomenų elementus (int, float, char, string, data) ir juos atspauzdina į rezultatų failą.
+
+3 užduotis
+
+Sukūrti dokumentą, kuriama būtų surašyti figūrų pavadinimai. Taip pat sukūrtas algoritmas, kuris nuskaitytų ši dokumentą ir pagal nuskaitytas figūras, jas atvaizduotų ekrane.
+
+4 užduotis
+
+Pagal duotą fiksuotų skaičių aibę išspręsti galvosukį, kuris parodytų, kaip sudėjus aritmetinius ženklus (+ ir *) galima būtų gauti norimą rezultatą.
