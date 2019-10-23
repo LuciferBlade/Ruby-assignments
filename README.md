@@ -9,4 +9,4 @@ These inclue applications written for first programing practice.
 Fix syntax of assignment 2 ruby code
 
 ### assignment 4
-Make unit tests for assignment 3 ruby code. Some ruby files were rewritten into object oriented code, they end with "..._re.rb", test classes start with "tc_...".
+Make unit tests for assignment 3 ruby code. Some ruby files were rewritten into object oriented code, they end with "...re.rb", test classes start with "tc...".
