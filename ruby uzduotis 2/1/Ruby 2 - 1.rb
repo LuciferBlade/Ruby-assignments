@@ -12,11 +12,11 @@ file1.each do |line|
   parts.each do |i|
     if i.match(/^[-]?\d+?$/)
       file2.print 'Integer'
-    elsif i.match(%r{/^[-]?(\d+)+[.]\d+?$/})
+    elsif i.match(/^[-]?(\d+)+[.]\d+?$/)
       file2.print 'Float'
     elsif i.size == 1
       file2.print 'Char'
-    elsif i.match(%r{/^(0?[1-9]|1[0-2])?[\/](0?[1-9]|[12]\d|3[01])?[\/]\d{4}$/})
+    elsif i.match(%r{^(0?[1-9]|1[0-2])?[\/](0?[1-9]|[12]\d|3[01])?[\/]\d{4}$})
       file2.print 'Date'
     else
       file2.print 'String'
