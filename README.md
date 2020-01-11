@@ -19,6 +19,7 @@ Because of difficulties with github (reference refs/heads/master not found error
 
 **Project idea**
 Application extends assignment 5 by adding login, register, logout functionality (authentication); allows to create new, edit or delete existing valuable items; and also keeps previous functionality, like generating random number, showing one of few images and so on.
+
 **Database structure**
 Database contains tables for users, items and statuses (statuses are separated mostly to have more fun creating drop box input fields and forms). users table contains {id, email, name and passord_digest} fields; items table has fields for {id, name, value, date, status_id and locations}; status table has only {id, status_name} fields. Whole database file is uploaded as itemCatalogue2.sql file.
 
